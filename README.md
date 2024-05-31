@@ -16,7 +16,7 @@
 0    1   0   0    1 
 ```
 
- ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-2/blob/main/Diagram.png)
+ ![Screenshot (1)](https://github.com/Ristova123/Zadaca2-8085/blob/main/Zadaca-2-diagram.png)
  
 
 
